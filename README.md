@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on any promising project<br>🤝 I’m looking for help with nothing 😂<br>🌱 I’m currently learning Nuxt<br>💬 Ask me about anything Flutter and Frontend Web<br>⚡ Fun fact:  Many programming languages share similar structures. So, if you learn one, you’re already halfway to understanding others. It’s like having a multilingual passport! 🗺️
+🔭 I’m currently working on an AI tool<br>👯 I’m looking to collaborate on any promising project<br>🌱 I’m currently learning DSA<br>💬 Ask me about anything Flutter and Frontend Web<br>⚡ Fun fact:  Many programming languages share similar structures. So, if you learn one, you’re already halfway to understanding others. It’s like having a multilingual passport! 🗺️
 
 
 ## 🌐 Socials:
